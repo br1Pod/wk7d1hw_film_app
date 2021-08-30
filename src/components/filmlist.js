@@ -8,8 +8,8 @@ const FilmList = () => {
     return (
 
         <>
-        <h2>Film List</h2>
-        <FilmItem />
+            <h2>Film List</h2>
+            <FilmItem />
         </>
 
     )
