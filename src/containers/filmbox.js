@@ -1,5 +1,5 @@
 import React from 'react';
-import FilmList from '../components/filmlist';
+import FilmList from '../components/FilmList';
 
 const FilmBox = () => {
 

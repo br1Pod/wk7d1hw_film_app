@@ -1,5 +1,5 @@
 import React from 'react';
-import FilmItem from './filmitem';
+import FilmItem from './FilmItem';
 
 const FilmList = () => {
 
