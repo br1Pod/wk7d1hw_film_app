@@ -1,6 +1,6 @@
 import React from 'react';
 
-const FilmItem = () => {
+const FilmItem = ({url, children}) => {
 
 
 
@@ -8,7 +8,7 @@ const FilmItem = () => {
 
         <>
             <li>
-                <a href={} target="_blank" title="View details on IMDB">Film Details</a>
+                <a href={url} target="_blank" title="View details on IMDB">{children}</a>
             </li>
         </>
     )

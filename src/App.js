@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import FilmBox from './components';
+import FilmBox from './containers/FilmBox';
 
 function App() {
   return (
